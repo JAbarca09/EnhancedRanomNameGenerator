@@ -1,0 +1,39 @@
+body{
+    /* background-color: #05A6D6; */
+   background-image: url("../images/daniel-leone-v7daTKlZzaw-unsplash.jpg");
+   height: 100%;
+}
+
+
+h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3rem;
+}
+
+input{
+     width: 300px;
+    height: 39px; 
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    outline: none;
+}
+
+::placeholder{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.EnterBtn{
+    width: 120px !important;
+}
+
+.bgWhite{
+    background-color: white;
+}
+
+.NameTxt{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+}
